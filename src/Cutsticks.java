@@ -14,7 +14,7 @@ public class Cutsticks
         singleInteger = in.nextInt();
         nInteger = new int[singleInteger];
 
-        //Get input from the user
+        // Get input from the user
         for(int i=0; i<nInteger.length;i++){
             nInteger[i] = in.nextInt();
         }
